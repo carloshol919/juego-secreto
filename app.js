@@ -1,5 +1,5 @@
 // Variables iniciales del juego
-let numeroMaximoPosible = 100;
+let numeroMaximoPosible = 50;
 let numeroSecreto = Math.floor(Math.random() * numeroMaximoPosible) + 1;
 let numeroUsuario = 0;
 let intentos = 1;
